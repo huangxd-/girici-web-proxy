@@ -16,4 +16,5 @@ USER node
 
 EXPOSE 3000
 
+# run
 CMD ["npm", "run", "start"]
